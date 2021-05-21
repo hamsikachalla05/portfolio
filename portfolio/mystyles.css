@@ -1,0 +1,29 @@
+.header{
+  color:black; 
+  background-color:rgb(217, 160, 223);
+  display: flex;
+  justify-content: space-between;
+  border: solid;
+ }
+
+ .container{
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+ }
+ h2, p{
+text-align: center;
+ }
+ .footer{
+   display: flex;
+   justify-content: flex-end;
+ }
+ .whole{
+   border:solid;
+ }
+ .item{
+   border: solid;
+ }
+ img{
+border-bottom:black solid;
+ }
